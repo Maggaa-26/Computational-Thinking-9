@@ -17,7 +17,7 @@ elif "Run" in c2:
     print("You run to the back of the house")
 
 print("As you enter the house the cockroaches bang on the door trying to get in.")
-print("You head up the stairs")
+print("You head up the stairs") 
 
 # choice 3
 c3 = input("Do you choose to go to the [left] or to the [right]?")
