@@ -33,7 +33,7 @@ print("As you walk into the bathroom you find the cockroaches are trying to get 
 c4 = input("Do you [let the cockroaches in] or [hide in the shower]?")
 if "hide in the shower." in c4:
     print("As you step into the shower you see that the shower head is shaking ") 
-else:
+else: 
     print("You let the cockroaches")
 
 # choice 5
