@@ -10,7 +10,7 @@ if answer == "A":
         extrovert_points += 1
 elif answer == "B":
         introvert_points += 1 
-elif answer == "C"
+elif answer == "C":
         ambivert_points += 1
 
 # question 2:
@@ -49,11 +49,11 @@ elif answer == "C":
         introvert_points += 1
 
 # End: determine results
-if extrovert_points > introvert_points and > ambivert_points:
+if extrovert_points > introvert_points and extrovert_points> ambivert_points:
         print("You are an extrovert!")
-elif introvert_points > extrovert_points and > ambivert_points:
+elif introvert_points > extrovert_points and introvert_points> ambivert_points:
         print("You are an introvert!")
 
-elif ambivert_points > extrovert_points and > introvert_points:
+elif ambivert_points > extrovert_points and ambivert_points > introvert_points:
         print("You are an ambivert!")
 
